@@ -1,6 +1,6 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: rgba(0, 101, 139, 0.77);
+    --secondaryText: rgba(22, 179, 251, 0.28);
     --primary: rgba(0, 101, 139, 0.77);
     --secondary: rgba(0, 101, 139, 1); 
     --buttonHover: rgba(0, 101, 139, 1);
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Caprasimo", serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
