@@ -1,11 +1,12 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: rgba(184, 228, 249, 0.28);
+    --secondaryText: rgb(121, 212, 255);
     --primary: rgba(0, 101, 139, 0.77);
     --secondary: rgba(0, 101, 139, 1); 
     --buttonHover: rgba(0, 101, 139, 1);
     --smallButtonHover: rgba(0, 62, 85, 1);
 }
+
 
 html {
     box-sizing: border-box;
